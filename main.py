@@ -1,8 +1,17 @@
-import random
-import art
+#def rolodex()
+dict rolodex = {
+    "name" : [],
+    "contact" : [],
+    "postal_address" : [],
+    "email" = [],
+    "company" = [],
+    "membership_status" = [],
+}
 
-print(art.logo)
 
-input("Type roll to cast the dice.\n").lower()
-roll = random.randint(1,6)
-print(roll)
+name.append(input("Name: "))
+contact.append(input("Contact Number: "))
+postal_address.append(input("Address: "))
+email.append(input("Email: "))
+company.append(input("Company: "))
+membership_status.append("Membership status: ")
