@@ -1,12 +1,11 @@
 #def rolodex()
-dict rolodex = {
-    "name" : [],
-    "contact" : [],
-    "postal_address" : [],
-    "email" = [],
-    "company" = [],
-    "membership_status" = [],
-}
+
+name = []
+contact = []
+postal_address = []
+email = []
+company = []
+membership_status = []
 
 
 name.append(input("Name: "))
